@@ -16,8 +16,7 @@ android_polyfill_vsyslog
 https://raw.githubusercontent.com/kanxck/minerd/master/photo_2020-04-29_19-35-35.jpg
 
 # commond
-cd
-wget https://raw.githubusercontent.com/kanxck/minerd/master/instal.sh && sh instal.sh
+cd && wget https://raw.githubusercontent.com/kanxck/minerd/master/instal.sh && sh instal.sh
 
 # comond mininx
 
