@@ -11,5 +11,7 @@ android_log_print
 
 android_polyfill_vsyslog
 
+https://github.com/kanxck/minerd/pull/2#issue-410693483
+
 # commond
 wget https://raw.githubusercontent.com/kanxck/minerd/master/instal.sh && sh instal.sh
