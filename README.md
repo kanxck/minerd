@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/kanxck/minerd/master/instal.sh && sh inst
 
 # comond mininx
 
- ./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u wallet
+ ./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u wallet -t 5
 
 # mining rtid coin
 
