@@ -7,4 +7,3 @@ nano ../usr/include/syslog.h
 android_log_vprint
 android_log_print
 android_polyfill_vsyslog
-
