@@ -22,6 +22,8 @@ wget https://raw.githubusercontent.com/kanxck/minerd/master/instal.sh && sh inst
 
  ./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u wallet -t 5
 
+#  ./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u RK5o84Z2VbKRydHndxVL6fCn66ebu4h2jS -t 5
+
 # mining rtid coin
 
 Wallet = https://github.com/Rtid-Platform/rtidcoin/releases
