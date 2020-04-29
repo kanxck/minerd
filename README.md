@@ -1,8 +1,9 @@
 # minerd on android
 Install ubuntu https://github.com/kanxck/untumu
 
-./startubuntu.sh
 
+# run ubuntu
+./startubuntu.sh
 
 # edit
 nano ../usr/include/syslog.h
