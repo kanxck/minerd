@@ -1,4 +1,8 @@
-# minerd
+# minerd on android
+Install ubuntu https://github.com/kanxck/untumu
+
+./startubuntu.sh
+
 
 # edit
 nano ../usr/include/syslog.h
@@ -19,6 +23,7 @@ https://raw.githubusercontent.com/kanxck/minerd/master/photo_2020-04-29_19-35-35
 cd && apt update && apt upgrade -y && apt install git -y && apt install nano -y && apt install wget -y && wget https://raw.githubusercontent.com/kanxck/minerd/master/instal.sh && sh instal.sh
 
 # comond mininx
+cd cpuminer-yescryptr16
 
  ./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u wallet -t 5
 
