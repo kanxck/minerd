@@ -63,7 +63,7 @@ Telegram Indonesia group = @RTID_Indonesia
 # mining ubi coin
 
 Windows Wallet 
- https://anonfile.com/Les7mdyao3/Ubicoin.Win32_zip
+ https://github.com/UbiState/ubicoin/releases
 
 Alternatif wallet bisa pake bot telegram
 @ubicoin_bot
