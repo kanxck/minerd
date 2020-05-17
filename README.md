@@ -29,9 +29,16 @@ cd && apt update && apt upgrade -y && apt install git -y && apt install nano -y 
 # comond mininx
 cd cpuminer-yescryptr16
 
- ./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u wallet -t 5
+ ./minerd -a algocoin -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u wallet -t 5
 
-#  ./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u RK5o84Z2VbKRydHndxVL6fCn66ebu4h2jS -t 5
+# rtid coin 
+
+./minerd -o stratum+tcp://stratum-ru.rplant.xyz:7048 -u RK5o84Z2VbKRydHndxVL6fCn66ebu4h2jS -t 5
+
+# ubi coin 
+
+./minerd -a scrypt -o stratum+tcp://mining.xpoolx.com:2020 -u UwQrQ3RdJD5XJSKqWryCUdmsKZaHz7CbRK -p c=UBI -t 5
+
 
 # mining rtid coin
 
@@ -48,4 +55,5 @@ Discord Global = https://discord.gg/zWPFa5
 Telegram global Group =  @RTID_Official
 
 Telegram Indonesia group = @RTID_Indonesia
+
 
