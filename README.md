@@ -69,6 +69,6 @@ Alternatif wallet bisa pake bot telegram
 @ubicoin_bot
 
 Pool
-1. smithpool.net
-2. xpoolx.com/?address=
-3. 0769.it
+1. http://smithpool.net/
+2. http://xpoolx.com/?address=
+3. https://0769.it/
