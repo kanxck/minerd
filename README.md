@@ -44,6 +44,9 @@ cd cpuminer-yescryptr16
 
 Wallet = https://github.com/Rtid-Platform/rtidcoin/releases
 
+alternatif wallet bisa pake bot telegram 
+@RTIDCOIN_BOT
+
 Pool = https://pool.rplant.xyz/#rtidcoin#connect
 
 Website = rtid-platform.web.id
@@ -57,3 +60,15 @@ Telegram global Group =  @RTID_Official
 Telegram Indonesia group = @RTID_Indonesia
 
 
+# mining ubi coin
+
+Windows Wallet 
+ https://anonfile.com/Les7mdyao3/Ubicoin.Win32_zip
+
+Alternatif wallet bisa pake bot telegram
+@ubicoin_bot
+
+Pool
+1. smithpool.net
+2. xpoolx.com/?address=
+3. 0769.it
